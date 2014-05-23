@@ -19,7 +19,7 @@ image:
   credit:
   creditlink:
   feature:
-comments: true
+comments: false
 ---
 
     eos
