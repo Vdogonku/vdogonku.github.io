@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /zrenie/
+permalink: /medecina/
 title: Зрение
 description: "Мой опыт восстановления зрения."
 modified: 2013-09-11
